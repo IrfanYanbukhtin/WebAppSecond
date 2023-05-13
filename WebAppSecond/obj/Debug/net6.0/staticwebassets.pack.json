@@ -1,0 +1,333 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebAppSecond\\WebAppSecond\\wwwroot\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebAppSecond\\WebAppSecond\\wwwroot\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebAppSecond\\WebAppSecond\\wwwroot\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebAppSecond\\WebAppSecond\\wwwroot\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebAppSecond\\WebAppSecond\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebAppSecond\\WebAppSecond\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebAppSecond\\WebAppSecond\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebAppSecond\\WebAppSecond\\wwwroot\\fonts\\Angeline_Vintage.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Angeline_Vintage.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebAppSecond\\WebAppSecond\\wwwroot\\fonts\\Montserrat-Bold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Montserrat-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebAppSecond\\WebAppSecond\\wwwroot\\fonts\\Roboto-Italic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Roboto-Italic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebAppSecond\\WebAppSecond\\wwwroot\\fonts\\Roboto-Regular.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Roboto-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebAppSecond\\WebAppSecond\\wwwroot\\images\\ar-left.png",
+      "PackagePath": "staticwebassets\\images\\ar-left.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebAppSecond\\WebAppSecond\\wwwroot\\images\\ar-right.png",
+      "PackagePath": "staticwebassets\\images\\ar-right.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebAppSecond\\WebAppSecond\\wwwroot\\images\\architecture.png",
+      "PackagePath": "staticwebassets\\images\\architecture.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebAppSecond\\WebAppSecond\\wwwroot\\images\\article-banner.png",
+      "PackagePath": "staticwebassets\\images\\article-banner.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebAppSecond\\WebAppSecond\\wwwroot\\images\\carlla-willstons.jpg",
+      "PackagePath": "staticwebassets\\images\\carlla-willstons.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebAppSecond\\WebAppSecond\\wwwroot\\images\\close.png",
+      "PackagePath": "staticwebassets\\images\\close.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebAppSecond\\WebAppSecond\\wwwroot\\images\\comment-icon.png",
+      "PackagePath": "staticwebassets\\images\\comment-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebAppSecond\\WebAppSecond\\wwwroot\\images\\comment-user1.png",
+      "PackagePath": "staticwebassets\\images\\comment-user1.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebAppSecond\\WebAppSecond\\wwwroot\\images\\comment-user2.png",
+      "PackagePath": "staticwebassets\\images\\comment-user2.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebAppSecond\\WebAppSecond\\wwwroot\\images\\comment-user3.png",
+      "PackagePath": "staticwebassets\\images\\comment-user3.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebAppSecond\\WebAppSecond\\wwwroot\\images\\food.png",
+      "PackagePath": "staticwebassets\\images\\food.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebAppSecond\\WebAppSecond\\wwwroot\\images\\full-screen.png",
+      "PackagePath": "staticwebassets\\images\\full-screen.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebAppSecond\\WebAppSecond\\wwwroot\\images\\gallery-img1.png",
+      "PackagePath": "staticwebassets\\images\\gallery-img1.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebAppSecond\\WebAppSecond\\wwwroot\\images\\gallery-img2.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery-img2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebAppSecond\\WebAppSecond\\wwwroot\\images\\gallery-img3.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery-img3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebAppSecond\\WebAppSecond\\wwwroot\\images\\gallery-img4.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery-img4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebAppSecond\\WebAppSecond\\wwwroot\\images\\heart.png",
+      "PackagePath": "staticwebassets\\images\\heart.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebAppSecond\\WebAppSecond\\wwwroot\\images\\home-bg.png",
+      "PackagePath": "staticwebassets\\images\\home-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebAppSecond\\WebAppSecond\\wwwroot\\images\\insta1.png",
+      "PackagePath": "staticwebassets\\images\\insta1.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebAppSecond\\WebAppSecond\\wwwroot\\images\\insta2.png",
+      "PackagePath": "staticwebassets\\images\\insta2.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebAppSecond\\WebAppSecond\\wwwroot\\images\\insta3.png",
+      "PackagePath": "staticwebassets\\images\\insta3.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebAppSecond\\WebAppSecond\\wwwroot\\images\\insta4.png",
+      "PackagePath": "staticwebassets\\images\\insta4.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebAppSecond\\WebAppSecond\\wwwroot\\images\\insta5.png",
+      "PackagePath": "staticwebassets\\images\\insta5.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebAppSecond\\WebAppSecond\\wwwroot\\images\\insta6.png",
+      "PackagePath": "staticwebassets\\images\\insta6.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebAppSecond\\WebAppSecond\\wwwroot\\images\\interior.png",
+      "PackagePath": "staticwebassets\\images\\interior.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebAppSecond\\WebAppSecond\\wwwroot\\images\\left-img.jpg",
+      "PackagePath": "staticwebassets\\images\\left-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebAppSecond\\WebAppSecond\\wwwroot\\images\\news2.png",
+      "PackagePath": "staticwebassets\\images\\news2.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebAppSecond\\WebAppSecond\\wwwroot\\images\\news3.png",
+      "PackagePath": "staticwebassets\\images\\news3.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebAppSecond\\WebAppSecond\\wwwroot\\images\\news4.png",
+      "PackagePath": "staticwebassets\\images\\news4.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebAppSecond\\WebAppSecond\\wwwroot\\images\\news5.png",
+      "PackagePath": "staticwebassets\\images\\news5.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebAppSecond\\WebAppSecond\\wwwroot\\images\\news6.png",
+      "PackagePath": "staticwebassets\\images\\news6.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebAppSecond\\WebAppSecond\\wwwroot\\images\\play-icon.png",
+      "PackagePath": "staticwebassets\\images\\play-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebAppSecond\\WebAppSecond\\wwwroot\\images\\play1.png",
+      "PackagePath": "staticwebassets\\images\\play1.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebAppSecond\\WebAppSecond\\wwwroot\\images\\play2.png",
+      "PackagePath": "staticwebassets\\images\\play2.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebAppSecond\\WebAppSecond\\wwwroot\\images\\play3.png",
+      "PackagePath": "staticwebassets\\images\\play3.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebAppSecond\\WebAppSecond\\wwwroot\\images\\play4.png",
+      "PackagePath": "staticwebassets\\images\\play4.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebAppSecond\\WebAppSecond\\wwwroot\\images\\play5.png",
+      "PackagePath": "staticwebassets\\images\\play5.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebAppSecond\\WebAppSecond\\wwwroot\\images\\quote-bg.png",
+      "PackagePath": "staticwebassets\\images\\quote-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebAppSecond\\WebAppSecond\\wwwroot\\images\\quote.png",
+      "PackagePath": "staticwebassets\\images\\quote.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebAppSecond\\WebAppSecond\\wwwroot\\images\\right-icon.png",
+      "PackagePath": "staticwebassets\\images\\right-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebAppSecond\\WebAppSecond\\wwwroot\\images\\right-img.jpg",
+      "PackagePath": "staticwebassets\\images\\right-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebAppSecond\\WebAppSecond\\wwwroot\\images\\search-icon.png",
+      "PackagePath": "staticwebassets\\images\\search-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebAppSecond\\WebAppSecond\\wwwroot\\images\\star-shape.png",
+      "PackagePath": "staticwebassets\\images\\star-shape.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebAppSecond\\WebAppSecond\\wwwroot\\images\\stay-bg.png",
+      "PackagePath": "staticwebassets\\images\\stay-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebAppSecond\\WebAppSecond\\wwwroot\\images\\t-post1.png",
+      "PackagePath": "staticwebassets\\images\\t-post1.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebAppSecond\\WebAppSecond\\wwwroot\\images\\t-post2.png",
+      "PackagePath": "staticwebassets\\images\\t-post2.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebAppSecond\\WebAppSecond\\wwwroot\\images\\t-post3.png",
+      "PackagePath": "staticwebassets\\images\\t-post3.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebAppSecond\\WebAppSecond\\wwwroot\\images\\travel.png",
+      "PackagePath": "staticwebassets\\images\\travel.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebAppSecond\\WebAppSecond\\wwwroot\\images\\video-cover1.jpg",
+      "PackagePath": "staticwebassets\\images\\video-cover1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebAppSecond\\WebAppSecond\\wwwroot\\images\\video-cover2.jpg",
+      "PackagePath": "staticwebassets\\images\\video-cover2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebAppSecond\\WebAppSecond\\wwwroot\\js\\article.js",
+      "PackagePath": "staticwebassets\\js\\article.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebAppSecond\\WebAppSecond\\wwwroot\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebAppSecond\\WebAppSecond\\wwwroot\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebAppSecond\\WebAppSecond\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebAppSecond\\WebAppSecond\\wwwroot\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebAppSecond\\WebAppSecond\\wwwroot\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebAppSecond\\WebAppSecond\\wwwroot\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebAppSecond\\WebAppSecond\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebAppSecond\\WebAppSecond\\wwwroot\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebAppSecond\\WebAppSecond\\wwwroot\\js\\jquery-1.12.0.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-1.12.0.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebAppSecond\\WebAppSecond\\wwwroot\\js\\jquery-3.3.1.slim.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.3.1.slim.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebAppSecond\\WebAppSecond\\wwwroot\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebAppSecond\\WebAppSecond\\wwwroot\\js\\jquery.yu2fvl.js",
+      "PackagePath": "staticwebassets\\js\\jquery.yu2fvl.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebAppSecond\\WebAppSecond\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebAppSecond\\WebAppSecond\\wwwroot\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebAppSecond\\WebAppSecond\\wwwroot\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\js\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\WebAppSecond\\WebAppSecond\\wwwroot\\sass\\style.scss",
+      "PackagePath": "staticwebassets\\sass\\style.scss"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.WebAppSecond.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.WebAppSecond.props",
+      "PackagePath": "build\\WebAppSecond.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.WebAppSecond.props",
+      "PackagePath": "buildMultiTargeting\\WebAppSecond.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.WebAppSecond.props",
+      "PackagePath": "buildTransitive\\WebAppSecond.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
